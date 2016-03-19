@@ -1,0 +1,37 @@
+{
+  "name": "lamassu-updater",
+  "version": "1.0.1",
+  "description": "Zero-config HTTPS server example (complete with bogus TLS/SSL 2048-bit RSA PEM certs)",
+  "main": "updater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node updater.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valerybugakov/lamassu-updater.git"
+  },
+  "keywords": [
+    "ssl",
+    "tls",
+    "https",
+    "rsa",
+    "pem",
+    "example",
+    "demo",
+    "test",
+    "openssl",
+    "crt",
+    "p12",
+    "csr",
+    "certificate",
+    "certs",
+    "cert",
+    "key",
+    "private",
+    "public"
+  ],
+  "author": "<skymk1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {}
+}
