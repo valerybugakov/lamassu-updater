@@ -3,7 +3,6 @@
   "port": 8000,
   "host": "updates.lamassu.is",
   "updateInterval": 30000,
-  "deathInterval": 600000,
   "downloadDir": "tmp",
   "certs": {
     "certFile": "./certs/server/my-server.crt.pem",
